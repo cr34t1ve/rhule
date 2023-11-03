@@ -114,7 +114,7 @@
     grid-template-rows: repeat(2, 150px);
     gap: 8px;
     width: 100%;
-    padding-left: 50px;
+    padding-inline: 50px;
     overflow-x: scroll;
   }
 
